@@ -1,0 +1,37 @@
+.cart{
+    background-color: rgb(117, 156, 133);
+    padding: 20px 20px 0 20px;
+    color: white;
+    width: 320px
+}
+.cart img{
+    width: 320px;
+    height: 310px;
+}
+.cart h1{
+    margin: 0;
+}
+.cart-price{
+    padding: 10px 0;
+    padding-right: 40px;
+    display: flex;
+    justify-content: space-between;
+}
+.cart-price button{
+    border: 0;
+    background-color: rgb(117, 156, 133);
+    cursor: pointer;
+}
+.cart p{
+    font-size: 20px;
+}
+
+@media (max-width: 1130px) {
+    .cart{
+        width: 260px;
+    }
+    .cart img{
+        width: 255px;
+        height: 230px;
+    }
+}

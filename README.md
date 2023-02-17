@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+marbo akhana lasa daphon hovi gorostana
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

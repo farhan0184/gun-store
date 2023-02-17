@@ -1,0 +1,39 @@
+.navbar{
+    display: flex;
+    height: 90px;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 100px;
+    margin-inline: auto;
+    background-color: rgba(117, 156, 133,0.7);
+    position: sticky;
+    top: 0;
+}
+.navbar h1{
+    font-size: 40px;
+    font-family: 'Domine', serif;
+    color: white;
+}
+
+.cart-counter{
+    position: relative;
+    cursor: pointer;
+}
+.cart-counter span{
+    position: absolute;
+    top: -20px;
+    right: -20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(255, 255, 255);
+    background: rgba(192, 0, 0, 0.498);
+    width: 30px;
+    height: 30px;
+    padding: 5px;
+    border-radius: 100px;
+
+}
+
+
+
